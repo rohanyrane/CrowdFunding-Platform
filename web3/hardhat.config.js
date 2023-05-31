@@ -7,7 +7,7 @@ module.exports = {
       hardhat :{},
       goerli:{
         url :'https://rpc.ankr.com/eth_goerli',
-        accounts:[`0x${process.env.PRIVATE_KEY}`]
+        accounts:['0xc28509EFAa8A7CD1369cEDc0a1140f6F1Fa8f46D']
       }
     },
     settings: {
